@@ -25,26 +25,26 @@ This is a simple self-improving chatbot implemented in Python. The chatbot start
 
 1. Install the `openai` Python library:
 
-pip install openai
+  pip install openai
 
 
 2. Clone this repository:
 
-git clone https://github.com/decentricity/gptlearnerchatbot.git
+  git clone https://github.com/decentricity/gptlearnerchatbot.git
 
-cd gptlearnerchatbot
+  cd gptlearnerchatbot
 
 
 3. Set the OpenAI API key as an environment variable:
 
-export OPENAI_API_KEY="your-api-key"
+  export OPENAI_API_KEY="your-api-key"
 
 
 ## Usage
 
 1. Run the chatbot script:
 
-python linaorigpt.py
+  python linaorigpt.py
 
 
 2. Choose between "interact" and "train" modes:
