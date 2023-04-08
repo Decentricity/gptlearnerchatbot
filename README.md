@@ -35,9 +35,9 @@ On Fedora, CentOS, or RHEL-based systems, you can use the following command:
 ```
 
 1. Install the `openai` Python library:
-
+```
   pip3 install openai
-
+```
 
 2. Clone this repository:
 ```
