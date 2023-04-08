@@ -26,6 +26,7 @@ pip install openai
 2. Clone this repository:
 
 git clone https://github.com/decentricity/gptlearnerchatbot.git
+
 cd gptlearnerchatbot
 
 
