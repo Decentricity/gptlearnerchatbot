@@ -23,9 +23,20 @@ This is a simple self-improving chatbot implemented in Python. The chatbot start
 
 ## Installation
 
+0. Install Python 3 on your Linux system. You can do this using the package manager for your distribution. For example, on Ubuntu or Debian-based systems, you can use the following command:
+
+```
+  sudo apt update
+  sudo apt install python3
+```
+On Fedora, CentOS, or RHEL-based systems, you can use the following command:
+```
+  sudo dnf install python3
+```
+
 1. Install the `openai` Python library:
 
-  pip install openai
+  pip3 install openai
 
 
 2. Clone this repository:
@@ -44,7 +55,7 @@ This is a simple self-improving chatbot implemented in Python. The chatbot start
 
 1. Run the chatbot script:
 ```
-  python linaorigpt.py
+  python3 linaorigpt.py
 ```
 
 2. Choose between "interact" and "train" modes:
